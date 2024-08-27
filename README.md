@@ -57,7 +57,7 @@ The loan portfolio is a crucial element in the financial sector, influencing eco
 │ ├── LoanPortfolio.twbx
 │ └── LoanData.csv
 └── README.md
-
+```
 
 ## Conclusion :mag:
 The Tableau dashboards developed in this project provide deep insights into loan dynamics, revealing trends in interest rates, loan purposes, and borrower behaviors. These visualizations facilitate a nuanced understanding of the financial landscape from 2007 to 2018, offering actionable insights for stakeholders in the financial industry.
